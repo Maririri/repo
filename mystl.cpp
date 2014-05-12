@@ -45,7 +45,7 @@ int main(int argc, char* argv[])
     }
 
     vector<MyString> vector1(5);
-    vector1.push_back(MyString("One"));
+    vector1.push_back(MyString("Two"));
 
     try
     {
@@ -68,7 +68,6 @@ int main(int argc, char* argv[])
     MyCircle circle = MyCircle(0,0,0);
     circle.setX(11);
     cout << "x +y  = " << circle.getXY()<<endl;
-
 //	cout << stack;
 //	cout << stack1;
 
