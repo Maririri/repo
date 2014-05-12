@@ -44,21 +44,8 @@ int main(int argc, char* argv[])
         cout << "Stack is empty"<<endl;
     }
 
-    //-------------------------//
-
     vector<MyString> vector1(5);
     vector1.push_back(MyString("One"));
-
-    //-------------------------//
-
-//	MyString str1("Name");
-//	MyString* str3 = new MyString("Name");
-//	delete str3;
-//
-//	MyStack<MyString, 5> stack1;
-//	stack1.push(MyString("One"));
-//
-//	stack1.push(str1);
 
     try
     {
@@ -81,7 +68,6 @@ int main(int argc, char* argv[])
     MyCircle circle = MyCircle(0,0,0);
     circle.setX(11);
     cout << "x +y  = " << circle.getXY()<<endl;
-
 
 //	cout << stack;
 //	cout << stack1;
