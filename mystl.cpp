@@ -24,6 +24,9 @@ int main(int argc, char* argv[])
 	//Point pt1(1,2), pt2(-3,-4);
 	//Swap(pt1, pt2);
 */
+
+    //Testing history
+
     MyString s1("One"), s2("Two");
     Swap(s1, s2);
 
