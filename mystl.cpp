@@ -26,6 +26,7 @@ int main(int argc, char* argv[])
 */
 
     //Testing history
+    // Testing Update project
 
     MyString s1("One"), s2("Two");
     Swap(s1, s2);
