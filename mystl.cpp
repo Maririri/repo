@@ -27,6 +27,7 @@ int main(int argc, char* argv[])
 
     //Testing history
     // Testing Update project
+    //Commit from IDE again
 
     MyString s1("One"), s2("Two");
     Swap(s1, s2);
