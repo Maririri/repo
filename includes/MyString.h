@@ -25,9 +25,7 @@ namespace myStl
     {
     public:
 
-        MyPoint()
-                : x(0)
-                , y(0)
+        MyPoint() : x(0) , y(0)
         { }
 
         MyPoint(int x, int y)
@@ -37,8 +35,10 @@ namespace myStl
 
         virtual ~MyPoint() { }
 
-        int getX() const { return x; }
-        void setX(int x) { MyPoint::x = x; }
+        int getX() const
+		{ return x; }
+        void setX(int x)
+		{ MyPoint::x = x; }
 
     private:
         int x;

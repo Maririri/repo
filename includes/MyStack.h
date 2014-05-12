@@ -15,7 +15,8 @@ namespace myStl
 
         T pop();
 
-        int empty() {return m_queueSize == 0;}
+        int empty()
+		{return m_queueSize == 0;}
 
         void setSize(size_t);
 

@@ -20,20 +20,19 @@ namespace myStl
         strcpy(m_pStr,other.m_pStr);
     }
 
-    MyString::MyString(MyString && other)
-    {
+    MyString::MyString(MyString && other)  {
         m_pStr = other.m_pStr;
         other.m_pStr=nullptr;
     }
 
     MyString &MyString::operator=(const MyString & other)
     {
-        if(this != &other)
-        {
+        if (this != &other)  {
             delete[] m_pStr;
             m_pStr = new char[strlen(other.m_pStr)+1];
             strcpy(m_pStr,other.m_pStr);
         }
+
         return *this;
     }
 
