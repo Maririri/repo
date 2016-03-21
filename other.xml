@@ -5,4 +5,10 @@
     <option name="minGWHomePath" value="C:\Program Files\mingw-w64\x86_64-4.9.3-posix-seh-rt_v4-rev1\mingw64" />
     <option name="winEnvironment" value="MINGW" />
   </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
 </application>
