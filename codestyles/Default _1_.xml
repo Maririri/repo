@@ -30,4 +30,7 @@
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
+  <codeStyleSettings language="ObjectiveC">
+    <option name="SPACE_BEFORE_METHOD_CALL_PARENTHESES" value="true" />
+  </codeStyleSettings>
 </code_scheme>
