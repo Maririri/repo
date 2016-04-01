@@ -1,14 +1,9 @@
 <application>
   <component name="CPPToolchains">
-    <option name="cygwinHomePath" value="C:\cygwin2.4.1" />
     <option name="detectedVersion" value="4" />
-    <option name="minGWHomePath" value="C:\Program Files\mingw-w64\x86_64-4.9.3-posix-seh-rt_v4-rev1\mingw64" />
-    <option name="winEnvironment" value="MINGW" />
   </component>
-  <component name="ErrorReportConfigurable">
-    <option name="ITN_LOGIN" value="" />
-    <option name="ITN_PASSWORD_CRYPT" value="" />
-    <option name="KEEP_ITN_PASSWORD" value="false" />
-    <option name="EMAIL" value="" />
+  <component name="CppNewDialogSettings">
+    <option name="addNewFilesToProject" value="false" />
   </component>
+  <component name="SwiftSettings" SDK_DIR="$USER_HOME$/swift-2.2-SNAPSHOT-2015-12-10-a-ubuntu15.10" USE_SWIFT_DEBUGGER="true" />
 </application>
