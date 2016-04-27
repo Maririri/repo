@@ -2,8 +2,8 @@
   <component name="CPPToolchains">
     <option name="cygwinHomePath" value="E:\Toolchains\cygwin2.4.1" />
     <option name="detectedVersion" value="4" />
-    <option name="minGWHomePath" value="C:\Program Files\mingw-w64\x86_64-4.9.3-posix-seh-rt_v4-rev1\mingw64" />
-    <option name="winEnvironment" value="CYGWIN" />
+    <option name="minGWHomePath" value="E:\Toolchains\mingw-w64\x86_64-4.9.3-posix-seh-rt_v4-rev1\mingw64" />
+    <option name="winEnvironment" value="MINGW" />
   </component>
   <component name="CvsApplicationLevelConfiguration">
     <option name="EXT_CONFIGURATION">
