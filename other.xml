@@ -2,7 +2,7 @@
   <component name="CPPToolchains">
     <option name="cygwinHomePath" value="E:\Toolchains\cygwin2.4.1" />
     <option name="detectedVersion" value="4" />
-    <option name="minGWHomePath" value="E:\Toolchains\mingw-w64\x86_64-4.9.3-posix-seh-rt_v4-rev1\mingw64" />
+    <option name="minGWHomePath" value="E:\Toolchains\MinGW-3.21" />
     <option name="winEnvironment" value="MINGW" />
   </component>
   <component name="CvsApplicationLevelConfiguration">
@@ -41,7 +41,7 @@
         <option name="PATH_TO_PPK" value="" />
       </value>
     </option>
-    <option name="PATH_TO_PASSWORD_FILE" />
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
     <option name="TIMEOUT" value="10" />
     <option name="MAKE_CHECKED_OUT_FILES_READONLY" value="false" />
     <option name="CHECKOUT_PRUNE_EMPTY_DIRECTORIES" value="true" />
