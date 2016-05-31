@@ -59,4 +59,5 @@
     <option name="KEEP_ITN_PASSWORD" value="false" />
     <option name="EMAIL" value="" />
   </component>
+  <component name="SwiftSettings" USE_SWIFT_DEBUGGER="false" />
 </application>
