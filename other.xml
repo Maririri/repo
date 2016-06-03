@@ -3,6 +3,8 @@
     <option name="cygwinHomePath" value="E:\Toolchains\cygwin2.4.1" />
     <option name="detectedVersion" value="4" />
     <option name="minGWHomePath" value="E:\Toolchains\mingw-w64\x86_64-5.2.0-posix-seh-rt_v4-rev0\mingw64" />
+    <option name="specifiedGDBExecutablePath" value="/usr/bin/gdb" />
+    <option name="useBundledGDB" value="false" />
     <option name="winEnvironment" value="CYGWIN" />
   </component>
   <component name="CvsApplicationLevelConfiguration">
