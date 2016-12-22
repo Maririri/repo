@@ -25,6 +25,7 @@
     </extensions>
   </Objective-C-extensions>
   <codeStyleSettings language="ObjectiveC">
+    <option name="KEEP_LINE_BREAKS" value="false" />
     <indentOptions>
       <option name="TAB_SIZE" value="6" />
     </indentOptions>
