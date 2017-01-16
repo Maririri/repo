@@ -6,9 +6,6 @@
           <configuration CONFIG_NAME="Debug" />
         </configurations>
       </component>
-      <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="CPPToolchains" />
-      </component>
     </defaultProject>
   </component>
 </application>
