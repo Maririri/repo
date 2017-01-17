@@ -1,5 +1,0 @@
-<keymap version="1" name="Default mycopy" parent="$default">
-  <action id="EditorDuplicate">
-    <keyboard-shortcut first-keystroke="alt l" />
-  </action>
-</keymap>
