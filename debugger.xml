@@ -3,11 +3,6 @@
     <data-views />
     <general />
     <debuggers>
-      <debugger id="ObjectiveC">
-        <configuration>
-          <option name="RENDERERS_ENABLED" value="false" />
-        </configuration>
-      </debugger>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
