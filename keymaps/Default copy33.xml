@@ -1,0 +1,6 @@
+<keymap version="1" name="Default copy33" parent="$default">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="windows" />
+  </action>
+</keymap>
