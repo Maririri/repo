@@ -1,6 +1,6 @@
 <keymap version="1" name="Default copy" parent="$default">
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="ctrl d" />
-    <keyboard-shortcut first-keystroke="alt k" />
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
   </action>
 </keymap>
