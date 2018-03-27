@@ -4,7 +4,7 @@ project(STLTemplates-1)
 add_definitions(-std=c++11)
 
 add_subdirectory(includes)
-#add_subdirectory(subdir2)
+add_subdirectory(subdir2)
 
 # To find path to includes
 include_directories(${STLTemplates-1_SOURCE_DIR}/includes)
